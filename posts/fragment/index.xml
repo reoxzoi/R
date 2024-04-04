@@ -7,16 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 reoxzoi</copyright>
-    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://reoxzoi.github.io/R/posts/fragment/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>win11_headphone</title>
-      <link>http://reoxzoi.github.io/R/posts/fragment/win11_headphone/</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://reoxzoi.github.io/R/posts/fragment/win11_headphone/</guid>
-      <description>If your Earpods make a cracking sound on win11, why not try turning off Windows Sonic (if supported).</description>
-      
-    </item>
-    
+    <atom:link href="http://reoxzoi.github.io/R/posts/fragment/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
